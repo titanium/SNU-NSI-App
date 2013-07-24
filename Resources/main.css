@@ -1,0 +1,53 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #f3eccf;
+	color: #462102;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: block;
+	width:100%;
+}
+
+body.parents {
+	background-image: url('parents.png');
+	background-position: right 70px;
+	background-repeat: repeat-y;
+}
+
+a:link a:visited a:onclick {
+	text-decoration: underline;
+}
+
+header {
+	background-image: url('label.png');
+	background-repeat: repeat-x;
+	background-color: #a7343b;
+	height: 60px;
+	-webkit-box-shadow: 0 0 6px #000;
+	box-shadow: 0 0 6px #000;
+	text-align: center;
+	text-shadow: 0 -1px 1px rgb (94, 24, 24);
+	font: 16px "Helvetia Neue", arial, Georgia, Serif;
+}
+
+header strong {
+	color: #E7C982;
+	line-height: 60px;
+}
+
+.content {
+	margin-top: 10px ;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+.contentparents {
+	margin-top: 10px ;
+	padding-left: 2%;
+	padding-right: 12%;
+}

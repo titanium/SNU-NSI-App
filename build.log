@@ -1,0 +1,22 @@
+Logfile initialized
+[INFO] logfile = /Users/Titanium/Developer/Titanium Studio Workspace/NSI2012/build.log
+[DEBUG] /Users/Titanium/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/android/builder.py simulator NSI 2012 /Users/Titanium/Developer/Android /Users/Titanium/Developer/Titanium Studio Workspace/NSI2012 com.apptendo.nsi2012 13 WXGA720 
+[INFO] Building NSI 2012 for Android ... one moment
+[INFO] Titanium SDK version: 3.1.1 (06/15/13 16:09 f7592c1)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 0 devices/emulators
+[DEBUG] /Users/Titanium/Developer/Android/tools/emulator -avd titanium_13_WXGA720_armeabi-v7a -port 5560 -sdcard /Users/Titanium/.titanium/titanium_13_WXGA720_armeabi-v7a.sdcard -logcat *:d,*,TiAPI:V -no-boot-anim -partition-size 128
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[INFO] Android Emulator has exited
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again
